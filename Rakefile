@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "trole_groups"
   gem.homepage = "http://github.com/kristianmandrup/trole_groups"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Role groups for troles}
+  gem.description = %Q{Adds role group functionality to your roles system}
   gem.email = "kmandrup@gmail.com"
   gem.authors = ["Kristian Mandrup"]
   # dependencies defined in Gemfile

@@ -1,0 +1,3 @@
+h1. Use 'schemaker' gem here
+
+The config schema/models part MUST be handled by schemaker! 

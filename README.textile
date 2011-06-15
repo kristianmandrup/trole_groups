@@ -1,8 +1,24 @@
-= trole_groups
+h1. Trole groups
 
-Description goes here.
+Role group functionality for troles ;)
 
-== Contributing to trole_groups
+See the "troles":https://github.com/kristianmandrup/troles gem.
+
+h2. TODO
+
+* Use "schemaker":https://github.com/kristianmandrup/schemaker for model configuration
+* Use troles to decorate the _TroleGroup_ model class with roles functionality
+
+h3. Yard documentation
+
+I'm using "Yard":http://rubydoc.info/docs/yard/file/docs/GettingStarted.md for documentation.
+
+<pre>$ yard server
+
+From browser, go to: http://0.0.0.0:8808/  # then you can enjoy! the nice documentation :) 
+</pre>
+
+h2. Contributing to trole_groups
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
@@ -12,7 +28,7 @@ Description goes here.
 * Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
 * Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
 
-== Copyright
+h2. Copyright
 
 Copyright (c) 2011 Kristian Mandrup. See LICENSE.txt for
 further details.
